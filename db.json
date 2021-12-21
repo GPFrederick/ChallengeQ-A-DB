@@ -6,7 +6,7 @@
       "answer1": "Berlin",
       "answer2": "bogotá",
       "answer3": "Paris",
-      "answer4": "Oslo".
+      "answer4": "Oslo",
       "trueAnswer": "Berlin"
     }
   ],
@@ -17,7 +17,7 @@
       "answer1": "Orinoco",
       "answer2": "Nilo",
       "answer3": "Amazonas",
-      "answer4": "Miño".
+      "answer4": "Miño",
       "trueAnswer": "Amazonas"
     }
   ],
