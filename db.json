@@ -4,74 +4,78 @@
   },
   "questions": [
     {
-      "id": 1,
-      "description": "¿Cuál es la capital de Alemania?",
-      "answer1": "Berlin",
-      "answer2": "bogotá",
-      "answer3": "Paris",
-      "answer4": "Oslo",
-      "trueAnswer": "Berlin",
-      "difficulty": "Muy fácil"
-    },
-    {
-      "id": 2,
-      "description": "¿Cuál es el río más largo del mundo?",
-      "answer1": "Orinoco",
-      "answer2": "Nilo",
-      "answer3": "Amazonas",
-      "answer4": "Miño",
-      "trueAnswer": "Amazonas",
-      "difficulty": "Muy fácil"
-    },
-    {
-      "id": 3,
-      "description": "Dónde está Transilvania?",
-      "answer1": "Argentina",
-      "answer2": "Rumanía",
-      "answer3": "Canada",
-      "answer4": "Islandia",
-      "trueAnswer": "Rumanía",
-      "difficulty": "Muy fácil"
-    },
-    {
-      "id": 4,
-      "description": "¿Cuál es el país con menos habitantes del mundo?",
-      "answer1": "Caracas",
-      "answer2": "Dublin",
-      "answer3": "Venecia",
-      "answer4": "La Ciudad del Vaticano",
-      "trueAnswer": "La Ciudad del Vaticano",
-      "difficulty": "Muy fácil"
-    },
-    {
-      "id": 5,
-      "description": "¿Cuántos años duró la Primera Guerra Mundial?",
-      "answer1": "4",
-      "answer2": "2",
-      "answer3": "8",
-      "answer4": "5",
-      "trueAnswer": "4",
-      "difficulty": "Muy fácil"
-    },
-    {
-      "id": 6,
-      "description": "¿Cuándo murió Freddie Mercury?",
-      "answer1": "1995",
-      "answer2": "1991",
-      "answer3": "1990",
-      "answer4": "1998",
-      "trueAnswer": "1991",
-      "difficulty": "Fácil"
-    },
-    {
-      "id": 7,
-      "description": "¿Cuál es el himno de la Unión Europea?",
-      "answer1": "Four seasons",
-      "answer2": "La campanella",
-      "answer3": "Nocturne",
-      "answer4": "Oda a la Alegría",
-      "trueAnswer": "Oda a la Alegría",
-      "difficulty": "Fácil"
+      "veryEasy": [
+        {
+          "id": 1,
+          "description": "¿Cuál es la capital de Alemania?",
+          "answer1": "Berlin",
+          "answer2": "Bogotá",
+          "answer3": "Paris",
+          "answer4": "Oslo",
+          "trueAnswer": "Berlin"
+        },
+        {
+          "id": 2,
+          "description": "¿Cuál es el río más largo del mundo?",
+          "answer1": "Orinoco",
+          "answer2": "Nilo",
+          "answer3": "Amazonas",
+          "answer4": "Miño",
+          "trueAnswer": "Amazonas"
+        },
+        {
+          "id": 3,
+          "description": "Dónde está Transilvania?",
+          "answer1": "Argentina",
+          "answer2": "Rumanía",
+          "answer3": "Canada",
+          "answer4": "Islandia",
+          "trueAnswer": "Rumanía",
+          "difficulty": "Muy fácil"
+        },
+        {
+          "id": 4,
+          "description": "¿Cuál es el país con menos habitantes del mundo?",
+          "answer1": "Caracas",
+          "answer2": "Dublin",
+          "answer3": "Venecia",
+          "answer4": "La Ciudad del Vaticano",
+          "trueAnswer": "La Ciudad del Vaticano",
+          "difficulty": "Muy fácil"
+        },
+        {
+          "id": 5,
+          "description": "¿Cuántos años duró la Primera Guerra Mundial?",
+          "answer1": "4",
+          "answer2": "2",
+          "answer3": "8",
+          "answer4": "5",
+          "trueAnswer": "4",
+          "difficulty": "Muy fácil"
+        }
+      ],
+      "easy": [
+        {
+          "id": 6,
+          "description": "¿Cuándo murió Freddie Mercury?",
+          "answer1": "1995",
+          "answer2": "1991",
+          "answer3": "1990",
+          "answer4": "1998",
+          "trueAnswer": "1991",
+          "difficulty": "Fácil"
+        },
+        {
+          "id": 7,
+          "description": "¿Cuál es el himno de la Unión Europea?",
+          "answer1": "Four seasons",
+          "answer2": "La campanella",
+          "answer3": "Nocturne",
+          "answer4": "Oda a la Alegría",
+          "trueAnswer": "Oda a la Alegría",
+          "difficulty": "Fácil"
+        }
+      ]
     }
   ]
 }
