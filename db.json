@@ -11,7 +11,7 @@
       "answer3": "Paris",
       "answer4": "Oslo",
       "trueAnswer": "Berlin",
-      "difficult": "Muy fácil"
+      "difficulty": "Muy fácil"
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "answer3": "Amazonas",
       "answer4": "Miño",
       "trueAnswer": "Amazonas",
-      "difficult": "Muy fácil"
+      "difficulty": "Muy fácil"
     }
   ]
 }
