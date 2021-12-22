@@ -10,7 +10,8 @@
       "answer2": "bogotá",
       "answer3": "Paris",
       "answer4": "Oslo",
-      "trueAnswer": "Berlin"
+      "trueAnswer": "Berlin",
+      "difficult": "Muy fácil"
     },
     {
       "id": 2,
@@ -19,7 +20,8 @@
       "answer2": "Nilo",
       "answer3": "Amazonas",
       "answer4": "Miño",
-      "trueAnswer": "Amazonas"
+      "trueAnswer": "Amazonas",
+      "difficult": "Muy fácil"
     }
   ]
 }
