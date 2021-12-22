@@ -11,7 +11,7 @@
       "answer3": "Paris",
       "answer4": "Oslo",
       "trueAnswer": "Berlin",
-      "difficulty": "Muy fácil"
+      "difficulty": 1
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "answer3": "Amazonas",
       "answer4": "Miño",
       "trueAnswer": "Amazonas",
-      "difficulty": "Muy fácil"
+      "difficulty": 1
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "answer3": "Canada",
       "answer4": "Islandia",
       "trueAnswer": "Rumanía",
-      "difficulty": "Muy fácil"
+      "difficulty": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
       "answer3": "Venecia",
       "answer4": "La Ciudad del Vaticano",
       "trueAnswer": "La Ciudad del Vaticano",
-      "difficulty": "Muy fácil"
+      "difficulty": 1
     },
     {
       "id": 5,
@@ -51,7 +51,7 @@
       "answer3": "8",
       "answer4": "5",
       "trueAnswer": "4",
-      "difficulty": "Muy fácil"
+      "difficulty": 1
     },
     {
       "id": 6,
@@ -61,7 +61,7 @@
       "answer3": "1990",
       "answer4": "1998",
       "trueAnswer": "1991",
-      "difficulty": "Fácil"
+      "difficulty": 2
     },
     {
       "id": 7,
@@ -71,7 +71,7 @@
       "answer3": "Nocturne",
       "answer4": "Oda a la Alegría",
       "trueAnswer": "Oda a la Alegría",
-      "difficulty": "Fácil"
+      "difficulty": 2
     }
   ]
 }
