@@ -42,6 +42,36 @@
       "answer4": "La Ciudad del Vaticano",
       "trueAnswer": "La Ciudad del Vaticano",
       "difficulty": "Muy fácil"
+    },
+    {
+      "id": 5,
+      "description": "¿Cuántos años duró la Primera Guerra Mundial?",
+      "answer1": "4",
+      "answer2": "2",
+      "answer3": "8",
+      "answer4": "5",
+      "trueAnswer": "4",
+      "difficulty": "Muy fácil"
+    },
+    {
+      "id": 6,
+      "description": "¿Cuándo murió Freddie Mercury?",
+      "answer1": "1995",
+      "answer2": "1991",
+      "answer3": "1990",
+      "answer4": "1998",
+      "trueAnswer": "1991",
+      "difficulty": "Fácil"
+    },
+    {
+      "id": 7,
+      "description": "¿Cuál es el himno de la Unión Europea?",
+      "answer1": "Four seasons",
+      "answer2": "La campanella",
+      "answer3": "Nocturne",
+      "answer4": "Oda a la Alegría",
+      "trueAnswer": "Oda a la Alegría",
+      "difficulty": "Fácil"
     }
   ]
 }
