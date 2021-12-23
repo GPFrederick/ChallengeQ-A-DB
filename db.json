@@ -72,6 +72,206 @@
       "answer4": "Oda a la Alegría",
       "trueAnswer": "Oda a la Alegría",
       "difficulty": 2
+    },
+    {
+      "id": 8,
+      "description": "¿Cuál era la ciudad más cercana a la central nuclear de Chernóbil?",
+      "answer1": "Prípiat",
+      "answer2": "Kiev",
+      "answer3": "Chernivtsi",
+      "answer4": "Odesa",
+      "trueAnswer": "Prípiat",
+      "difficulty": 2
+    },
+    {
+      "id": 9,
+      "description": " ¿Quién formuló la Teoría de la Relatividad?",
+      "answer1": "Galileo Galilei",
+      "answer2": "Charles Darwin",
+      "answer3": "Isaac Newton",
+      "answer4": "Albert Einstein",
+      "trueAnswer": "Albert Einstein",
+      "difficulty": 2
+    },
+    {
+      "id": 10,
+      "description": "¿Cuál es el videojuego más vendido de la historia?",
+      "answer1": "Mario Bross",
+      "answer2": "Call Of Duty",
+      "answer3": "Minecraft",
+      "answer4": "Fifa 20",
+      "trueAnswer": "Minecraft",
+      "difficulty": 2
+    },
+    {
+      "id": 11,
+      "description": "¿Cuál es la videoconsola más vendida de la historia?",
+      "answer1": "Xbox One",
+      "answer2": "PlayStation 2",
+      "answer3": "PlayStation 4",
+      "answer4": "Nintendo Switch",
+      "trueAnswer": "PlayStation 2",
+      "difficulty": 3
+    },
+    {
+      "id": 12,
+      "description": "¿Cuál es el idioma más antiguo en Europa?",
+      "answer1": "El vasco",
+      "answer2": "El español",
+      "answer3": "El inglés",
+      "answer4": "El aleman",
+      "trueAnswer": "El vasco",
+      "difficulty": 3
+    },
+    {
+      "id": 13,
+      "description": "¿Cuántos corazones tiene un pulpo?",
+      "answer1": "Dos Corazones",
+      "answer2": "Cinco corazones",
+      "answer3": "Tres corazones.",
+      "answer4": "Un corazón",
+      "trueAnswer": "Tres corazones.",
+      "difficulty": 3
+    },
+    {
+      "id": 14,
+      "description": "¿Cuál es el planeta más cercano al Sol?",
+      "answer1": "Mercurio",
+      "answer2": "Venus",
+      "answer3": "Tierra",
+      "answer4": "Saturno",
+      "trueAnswer": "Mercurio",
+      "difficulty": 3
+    },
+    {
+      "id": 15,
+      "description": "¿Qué edad tiene el Universo?",
+      "answer1": "12.450 millones de años",
+      "answer2": "2.000 años",
+      "answer3": "13.800 millones de años",
+      "answer4": "89.000 años",
+      "trueAnswer": "13.800 millones de años",
+      "difficulty": 3
+    },
+    {
+      "id": 16,
+      "description": "¿Cuándo sucedieron los atentados de las Torres Gemelas?",
+      "answer1": "El 11 de agosto de 2001",
+      "answer2": "El 11 de septiembre de 2001",
+      "answer3": "El 11 de septiembre de 2000",
+      "answer4": "El 11 de junio de 2001",
+      "trueAnswer": "El 11 de septiembre de 2001",
+      "difficulty": 4
+    },
+    {
+      "id": 17,
+      "description": "¿Cuál es el océano más grande del mundo?",
+      "answer1": "El Océano Pacífico",
+      "answer2": "El Océano Ártico",
+      "answer3": "El Océano Atlántico",
+      "answer4": "El Océano Índico",
+      "trueAnswer": "El Océano Pacífico",
+      "difficulty": 4
+    },
+    {
+      "id": 18,
+      "description": "¿Dónde se celebraron las Olimpiadas de 1992?",
+      "answer1": "Madrid",
+      "answer2": "Tokio",
+      "answer3": "Barcelona",
+      "answer4": "Buenos Aires",
+      "trueAnswer": "Barcelona",
+      "difficulty": 4
+    },
+    {
+      "id": 19,
+      "description": "¿Quién postuló las leyes del movimiento?",
+      "answer1": "Albert Einstein",
+      "answer2": "Stephen Hawking",
+      "answer3": "Isaac Newton",
+      "answer4": "Nicolás Copérnico",
+      "trueAnswer": "Isaac Newton",
+      "difficulty": 4
+    },
+    {
+      "id": 20,
+      "description": "¿Cómo se llama al resultado de una multiplicación?",
+      "answer1": "Producto",
+      "answer2": "Suma",
+      "answer3": "Resultado",
+      "answer4": "Sobrante",
+      "trueAnswer": "Producto",
+      "difficulty": 4
+    },
+    {
+      "id": 21,
+      "description": "¿Cuál es la ciudad que nunca duerme?",
+      "answer1": "Nueva York",
+      "answer2": "Barcelona",
+      "answer3": "Toronto",
+      "answer4": "Boston",
+      "trueAnswer": "Nueva York",
+      "difficulty": 5
+    },
+    {
+      "id": 22,
+      "description": "Cuál es el país con el PIB más alto?",
+      "answer1": "Estados Unidos",
+      "answer2": "Colombia",
+      "answer3": "Canada",
+      "answer4": "Noruega",
+      "trueAnswer": "Estados Unidos",
+      "difficulty": 5
+    },
+    {
+      "id": 23,
+      "description": "¿Qué volcán sepultó la ciudad de Pompeya?",
+      "answer1": "El Popocatépetl",
+      "answer2": "El Chimborazo",
+      "answer3": "El Chachani",
+      "answer4": "El Vesubio",
+      "trueAnswer": "El Vesubio",
+      "difficulty": 5
+    },
+    {
+      "id": 24,
+      "description": "¿En qué continente está Siria?",
+      "answer1": "En África",
+      "answer2": "En Asia",
+      "answer3": "En Europa",
+      "answer4": "En América",
+      "trueAnswer": "En Asia",
+      "difficulty": 5
+    },
+    {
+      "id": 25,
+      "description": "Si elevas cualquier número a 0, ¿qué resultado obtienes siempre?",
+      "answer1": "1",
+      "answer2": "0",
+      "answer3": "2",
+      "answer4": "-1",
+      "trueAnswer": "1",
+      "difficulty": 5
+    },
+    {
+      "id": 26,
+      "description": "¿Quién fue el último faraón de Egipto?",
+      "answer1": "Ramsés II",
+      "answer2": "Seti I",
+      "answer3": "Ramsés III",
+      "answer4": "Tutankamon",
+      "trueAnswer": "Ramsés III",
+      "difficulty": 6
+    },
+    {
+      "id": 0,
+      "description": "",
+      "answer1": "",
+      "answer2": "",
+      "answer3": "",
+      "answer4": "",
+      "trueAnswer": "",
+      "difficulty": 0
     }
   ]
 }
